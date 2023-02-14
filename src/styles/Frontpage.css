@@ -16,7 +16,7 @@
 }
 
 .divider {
-  border-bottom: 4px solid aliceblue;
+  border-bottom: 5px solid aliceblue;
   margin: 2px 0;
   width: 150px;
   display: flex;
@@ -26,6 +26,7 @@ p {
   color: aliceblue;
   font-family: 'Lato', sans-serif;
   font-size: 30px;
+  margin: 40px 0 90px 0 ;
 }
 
 .img-profile {
@@ -35,4 +36,6 @@ p {
 .star {
   height: 30px;
   width: 60px;
+  position: relative;
+  top: 10px;
 }
