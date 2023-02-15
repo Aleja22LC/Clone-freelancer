@@ -4,6 +4,7 @@
     align-items: center;
     margin-left: 15px;
     flex-direction: column;
+    /* flex-wrap: nowrap; */
 }
 
 .second-title {
